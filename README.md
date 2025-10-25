@@ -1,4 +1,4 @@
-# Greetings, I'm [Tu Nombre] 👋
+# Greetings, I'm [Juan David Santamaria Henao] 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
 
@@ -8,11 +8,7 @@
 
 ---
 
-### 🧰 Certified Salesforce Associate
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-**Certified Platform Developer I** – [Verify](#)
-**Certified Platform App Builder** – [Verify](#)
 
 ---
 
