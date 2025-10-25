@@ -1,6 +1,7 @@
 # Greetings, I'm [Juan David Santamaria Henao] 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.[linkedin.com/in/tuusuario/](https://www.linkedin.com/in/juan-david-santamar%C3%ADa-henao-56aa37251/))](https://www.linkedin.com/in/tuusuario/)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20David%20Santamaría%20Henao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-david-santamar%C3%ADa-henao-56aa37251/)](https://www.linkedin.com/in/juan-david-santamar%C3%ADa-henao-56aa37251/)
+
 
 - 🔭 I’m currently working on Salesforce and web development projects.
 - 🌱 I’m currently learning **JavaScript**, **Laravel**, and *React**.
