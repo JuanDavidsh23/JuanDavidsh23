@@ -1,9 +1,9 @@
 
 # Greetings, I'm Juan David Santamaria Henao
 
-- 👋 Hi, I’m @andresha20
-- :eyeglasses: I have been programming for over 1 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
-- 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, Java and the MERN stack alongside NEXT.JS (I've worked with this stack for 2+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
+- 👋 Hi, I’m @JuanDavidsh23
+- :eyeglasses: I have been programming for over 2 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
+-  I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, Java and the MERN stack alongside NEXT.JS (I've worked with this stack for 2+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
 
 ## Certified Salesforce Associate
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
