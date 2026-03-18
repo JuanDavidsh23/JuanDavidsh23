@@ -8,8 +8,6 @@
 ## Certified Salesforce Associate
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-<br><b>Certified Platform Developer</b> | <b>Credential ID:</b> 4005084 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts)
-<br><b>Certified Platform App Builder</b> | <b>Credential ID:</b> 4108163 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts)
 
 ## Technologies I've worked and feel confident with
 
