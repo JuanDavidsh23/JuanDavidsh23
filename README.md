@@ -1,0 +1,45 @@
+
+# Greetings, I'm Andrés Henao Alzate (https://www.linkedin.com/in/andresha20/)
+
+- 👋 Hi, I’m @andresha20
+- :eyeglasses: I have been programming for over 1 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
+- 💞️ I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, Java and the MERN stack alongside NEXT.JS (I've worked with this stack for 2+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
+
+## Certified Salesforce Associate
+![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+
+<br><b>Certified Platform Developer</b> | <b>Credential ID:</b> 4005084 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts)
+<br><b>Certified Platform App Builder</b> | <b>Credential ID:</b> 4108163 | andreshenao.2021@gmail.com | Verify [here](http://sforce.co/verifycerts)
+
+## Technologies I've worked and feel confident with
+
+If I was told to develop something using any of these technologies, I'd do it satisfactorily:
+
+![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## My specialty
+
+These are the technologies I feel the most fluent and knowledgeable about based on the time I've invested learning and most importantly, coding:
+
+![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![WhatsApp Image 2023-04-29 at 19 55 59](https://user-images.githubusercontent.com/80694673/235330393-29701811-3532-43c9-b9fe-009a114797e2.jpeg)
+
+<!---
+andresha20/andresha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
