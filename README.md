@@ -1,5 +1,5 @@
 
-# Greetings, I'm Andrés Henao Alzate (https://www.linkedin.com/in/andresha20/)
+# Greetings, I'm Juan David Santamaria Henao
 
 - 👋 Hi, I’m @andresha20
 - :eyeglasses: I have been programming for over 1 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
