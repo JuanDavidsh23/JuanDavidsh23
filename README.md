@@ -1,6 +1,4 @@
 
-# Greetings, I'm Juan David Santamaria Henao
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThxY200dHllbDRtenhmODI1Y3FhbGh0bGpjdTdxNGIxOWgweTZ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zHO316FmyqmZi/giphy.gif" width="100%"/>
 </p>
