@@ -1,6 +1,10 @@
 <table>
   <tr>
     <td width="50%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThxY200dHllbDRtenhmODI1Y3FhbGh0bGpjdTdxNGIxOWgweTZ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zHO316FmyqmZi/giphy.gif" width="100%"/>
+    </td>
+
+    <td width="50%">
 
 <h1>Hi 👋, I'm Juan David</h1>
 
@@ -20,6 +24,9 @@
 
 ---
 
+    </td>
+  </tr>
+</table>
 ### 🚀 Tech Stack
 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
