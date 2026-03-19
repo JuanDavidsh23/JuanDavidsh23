@@ -3,6 +3,8 @@
 
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB4YjRpdG5tYzd2azJ3bDJwOWxodjUxbzI1YWhxZ3VpeHhvOWdjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cyMORmhlTesbscqNVU/giphy.gif)
 
+<img src="assets/demo.gif" width="700"/>
+
 - 👋 Hi, I’m @JuanDavidsh23
 - :eyeglasses: I have been programming for over 2 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
 -  I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, Java and the MERN stack alongside NEXT.JS (I've worked with this stack for 2+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
