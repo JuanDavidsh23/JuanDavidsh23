@@ -8,6 +8,7 @@
 ## Certified Salesforce Associate
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
+![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pqdjNtOWtmdGQ4c3lsaDN2aGtzOHBlNmUyd2k1emdkZmUweHZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4rDu65eHSsNO/giphy.gif)
 
 ## Technologies I've worked and feel confident with
 
