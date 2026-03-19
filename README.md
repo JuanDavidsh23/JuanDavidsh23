@@ -2,7 +2,7 @@
 # Greetings, I'm Juan David Santamaria Henao
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB4YjRpdG5tYzd2azJ3bDJwOWxodjUxbzI1YWhxZ3VpeHhvOWdjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cyMORmhlTesbscqNVU/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB4YjRpdG5tYzd2azJ3bDJwOWxodjUxbzI1YWhxZ3VpeHhvOWdjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cyMORmhlTesbscqNVU/giphy.gif" width="100%"/>
   
 </p>
 - 👋 Hi, I’m @JuanDavidsh23
