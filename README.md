@@ -3,7 +3,9 @@
 
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB4YjRpdG5tYzd2azJ3bDJwOWxodjUxbzI1YWhxZ3VpeHhvOWdjdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cyMORmhlTesbscqNVU/giphy.gif)
 
-<img src="assets/demo.gif" width="700"/>
+<p align="center">
+  <img src="assets/demo.gif" width="500"/>
+</p>
 
 - 👋 Hi, I’m @JuanDavidsh23
 - :eyeglasses: I have been programming for over 2 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
