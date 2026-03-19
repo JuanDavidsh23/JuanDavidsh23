@@ -1,6 +1,8 @@
 
 # Greetings, I'm Juan David Santamaria Henao
 
+![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pqdjNtOWtmdGQ4c3lsaDN2aGtzOHBlNmUyd2k1emdkZmUweHZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4rDu65eHSsNO/giphy.gif)
+
 - 👋 Hi, I’m @JuanDavidsh23
 - :eyeglasses: I have been programming for over 2 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
 -  I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, Java and the MERN stack alongside NEXT.JS (I've worked with this stack for 2+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
@@ -8,7 +10,6 @@
 ## Certified Salesforce Associate
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pqdjNtOWtmdGQ4c3lsaDN2aGtzOHBlNmUyd2k1emdkZmUweHZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4rDu65eHSsNO/giphy.gif)
 
 ## Technologies I've worked and feel confident with
 
@@ -36,7 +37,6 @@ These are the technologies I feel the most fluent and knowledgeable about based 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![WhatsApp Image 2023-04-29 at 19 55 59](https://user-images.githubusercontent.com/80694673/235330393-29701811-3532-43c9-b9fe-009a114797e2.jpeg)
 
 <!---
 andresha20/andresha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
