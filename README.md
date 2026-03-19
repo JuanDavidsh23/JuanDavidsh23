@@ -1,7 +1,7 @@
 
 # Greetings, I'm Juan David Santamaria Henao
 
-![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pqdjNtOWtmdGQ4c3lsaDN2aGtzOHBlNmUyd2k1emdkZmUweHZsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4rDu65eHSsNO/giphy.gif)
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtxaXozNGw2YnEya2QxY2w4MDE0cG8yY2t2ZTJiNzN3ajRycmJ1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1dMlPP0fybIZy/giphy.gif)
 
 - 👋 Hi, I’m @JuanDavidsh23
 - :eyeglasses: I have been programming for over 2 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
