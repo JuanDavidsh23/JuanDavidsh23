@@ -3,12 +3,22 @@
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThxY200dHllbDRtenhmODI1Y3FhbGh0bGpjdTdxNGIxOWgweTZ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zHO316FmyqmZi/giphy.gif" width="100%"/>
-  
 </p>
-- 👋 Hi, I’m @JuanDavidsh23
-- :eyeglasses: I have been programming for over 2 years (started on 17/01/2022), and I can confidently say that programming is my main passion. 
--  I’m simply having a good time creating diverse stuff and wrapping my head around multiple technologies to eventually build something iconic. The technologies I feel the most confident with are Salesforce, Java and the MERN stack alongside NEXT.JS (I've worked with this stack for 2+ years on truly difficult tasks), but I'm able to learn anything with ease and commitment. I like the minimalism of Angular compared to React and I enjoy the challenges of backend technologies. I wish I had learned Typescript earlier. Looking forth to learning a lot!
 
+<h2 align="center">Hi 👋, I'm Juan David</h2>
+
+<p align="center">
+  💻 Passionate Developer | 🚀 Always Building | ⚡ Fast Learner
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 👋 Hi, I’m @JuanDavidsh23  
+- 👓 I have been programming for over 2 years (since 17/01/2022)  
+- 💡 Programming is my main passion  
+- 🧠 I enjoy learning new technologies and building impactful projects  
 ## Certified Salesforce Associate
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
