@@ -1,58 +1,33 @@
 <a href="https://juanhenao.dev">
-  <img src="./assets/banner.jpg" alt="Juan Henao — Desarrollador full stack, Medellín, Colombia" width="100%" />
+  <img src="./assets/banner.gif" alt="Juan Henao — Desarrollador full stack, Medellín, Colombia" width="100%" />
 </a>
 
 <p align="center">
-  <a href="https://juanhenao.dev"><b>juanhenao.dev</b></a> &nbsp;·&nbsp;
-  <a href="https://wa.me/573216194269">WhatsApp</a> &nbsp;·&nbsp;
-  <a href="mailto:santamariajuan34@gmail.com">santamariajuan34@gmail.com</a>
+  <a href="https://juanhenao.dev"><img src="https://img.shields.io/badge/juanhenao.dev-121211?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://wa.me/573216194269"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:santamariajuan34@gmail.com"><img src="https://img.shields.io/badge/santamariajuan34@gmail.com-e8e7e3?style=for-the-badge&logo=gmail&logoColor=121211" alt="Correo" /></a>
 </p>
 
 <br />
 
-Desarrollador full stack en **Medellín, Colombia**. Diseño y construyo productos web completos: interfaz, backend, base de datos y despliegue, hasta que están en producción y alguien los usa.
+<img src="./assets/about.png" alt="Hago software que se usa todos los días, de la interfaz al servidor. 9 proyectos en producción, 3 países, español e inglés." width="100%" />
 
-*Full stack developer based in Medellín. I work in Spanish and English.*
+<p align="center">
+  <a href="https://hwmarket.co"><img src="./assets/now1.png" alt="HWMarket: marketplace de hardware para Colombia" width="49%" /></a>
+  <a href="https://juanhenao.dev"><img src="./assets/now2.png" alt="juanhenao.dev: portafolio con partículas WebGL" width="49%" /></a>
+</p>
 
-<br />
-
-### Ahora mismo
-
-- **[hwmarket.co](https://hwmarket.co)**: marketplace de hardware para Colombia. SvelteKit + Elixir/Ash, pagos con comisión e IVA calculados al peso, panel de administración con 2FA y un servidor propio con Dokploy y Cloudflare Tunnel.
-- **[juanhenao.dev](https://juanhenao.dev)**: mi portafolio. Mi nombre en 16.000 partículas WebGL que se reorganizan para formar cada proyecto.
-
-<br />
-
-<a href="https://juanhenao.dev">
-  <img src="./assets/work.jpg" alt="Proyectos: HWMarket, fanstudio.ai, Vendia, Castellanos Plumbing, Urbana Creative, Neytwo, Dra. Silvia Romero" width="100%" />
+<a href="https://juanhenao.dev/#proyectos">
+  <img src="./assets/wall.png" alt="Proyectos en producción: fanstudio.ai, Vendia, Castellanos Plumbing, Urbana Creative, Neytwo, Dra. Silvia Romero, MTC Belleza, Plokion" width="100%" />
 </a>
 
 <br />
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| [hwmarket.co](https://hwmarket.co) | Marketplace de hardware en Colombia | SvelteKit · Elixir · Ash · PostgreSQL |
-| [fanstudio.ai](https://fanstudio.ai) | SaaS de contenido con IA para agencias | Next.js · Clerk · PostHog · Cloudflare |
-| [Vendia](https://app.vendia.mydanksecretapp.xyz) | Asesora de ventas con IA en WhatsApp | SvelteKit · Elixir · Phoenix |
-| [Castellanos Plumbing](https://castellanosplumbing.com) | Sitio bilingüe, Texas | Astro · React · Keystatic · Supabase |
-| [Urbana Creative](https://urbanacreative.com) | Estudio de contenido, Miami | Next.js · GSAP · Resend |
-| [Neytwo](https://neytwo.com/es) | Software a la medida, México | Next.js · Three.js · Lenis |
-| [Dra. Silvia Romero](https://drasilviaromero.com) | Landing bilingüe de salud, Medellín | Next.js · GSAP |
-
-<br />
-
-### Con qué construyo
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,astro,tailwind,threejs&theme=light" alt="TypeScript, JavaScript, React, Next.js, Svelte, Astro, Tailwind, Three.js" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,elixir,python,graphql,postgres,redis,supabase&theme=light" alt="Node.js, NestJS, Elixir, Python, GraphQL, PostgreSQL, Redis, Supabase" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,linux,git,github&theme=light" alt="Docker, Cloudflare, Vercel, Linux, Git, GitHub" />
-</p>
-
 <br />
 
 <p align="center">
-  <sub>¿Tienes un proyecto? <a href="https://wa.me/573216194269">Escríbeme</a> · Hora en Medellín: UTC−5</sub>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,svelte,astro,tailwind,threejs,nodejs,nestjs,elixir,python,graphql,postgres,redis,docker,cloudflare&perline=16" alt="TypeScript, React, Next.js, Svelte, Astro, Tailwind, Three.js, Node.js, NestJS, Elixir, Python, GraphQL, PostgreSQL, Redis, Docker, Cloudflare" />
+</p>
+
+<p align="center">
+  <sub>Full stack developer · Medellín, Colombia · Spanish &amp; English</sub>
 </p>
